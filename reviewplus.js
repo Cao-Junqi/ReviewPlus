@@ -7,6 +7,7 @@
 // @icon         https://clink2-sh-resource.oss-cn-shanghai.aliyuncs.com/enterprise/icon/29082025/console/8014247/efd79c69-1319-4fc9-a164-754813f58c56.ico?Expires=1762945128&OSSAccessKeyId=LTAI5tL9pE1xa4SFsANPQJJi&Signature=v0q%2BZUcB%2BsJMscZnNpB0Nygijc4%3D&response-content-disposition=attachment%3B%20filename%3Dvzan.ico
 // @match        https://audit-admin.njyqkj0ksyz.com/*
 // @match        https://audit-admin.vzan.com/*
+// @match        https://ntestvt.vzan.com/liveadmin/updatecache/*
 // @grant        GM_addStyle
 // @grant        GM_setClipboard
 // @grant        GM_xmlhttpRequest
