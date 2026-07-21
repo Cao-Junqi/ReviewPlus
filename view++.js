@@ -1,10 +1,12 @@
 // ==UserScript==
 // @name         星享话题审核精简视图（试用）
 // @namespace    http://tampermonkey.net/
-// @version      0.6.4
+// @version      0.6.5
 // @description  优化话题审核筛选区和风险优先表格，可随时切回原始视图
 // @author       Junqi
 // @match        https://audit-admin.njyqkj0ksyz.com/*
+// @updateURL    https://github.com/Cao-Junqi/ReviewPlus/raw/refs/heads/main/view++.js
+// @downloadURL  https://github.com/Cao-Junqi/ReviewPlus/raw/refs/heads/main/view++.js
 // @grant        GM_addStyle
 // @run-at       document-idle
 // ==/UserScript==
